@@ -1,0 +1,32 @@
+h1 {
+	border-bottom:4px solid #666;
+	color: #7F9500
+}
+.editThumb {
+	float:left;
+	margin:10px;
+}
+#adminNav {
+	margin:0;
+	padding:0;
+}
+#adminNav li {
+	display:inline;
+	margin:0 10px 0 0;
+	list-style-type:none;
+}
+.clear {
+	clear:both;
+}
+#photos input, #photos textarea {
+	display:block;
+}
+body {
+	background:#eee;
+}
+.here {
+	background: #7F9500 !important;
+}
+a {
+	color:#7F9500;
+}
